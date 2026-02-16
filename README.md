@@ -8,7 +8,7 @@ This repository contains the implementation accompanying the paper:
 
 > **Data-Efficient Real-Time Control of an Artificial-Muscle-Driven Continuum Robot with Physics-Informed Koopman Operator**  
 > Jiahe Wang, Eron Ristich, Eric Weissman, Yi Ren, and Jiefeng Sun  
-> 2025
+> 2026
 
 ---
 
@@ -25,9 +25,6 @@ This work introduces **PIKO (Physics-Informed Koopman Operator)**:
 - Reduces experimental data requirements
 - Enables real-time MPC-based trajectory tracking
 
----
-
----
 
 ## 🏗 Repository Structure
 
