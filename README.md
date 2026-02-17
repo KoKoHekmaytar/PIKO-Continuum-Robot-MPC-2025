@@ -27,4 +27,7 @@ This work introduces **PIKO (Physics-Informed Koopman Operator)**:
 
 
 ## 🏗 Repository Structure
+- Data Collection: 'harp_oneseg_ws', ROS 2 environment and hardware commnucation
+- Koopman Training:
+- Static model and JAX:
 
